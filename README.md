@@ -1,7 +1,7 @@
-
-
-
 # 🗳️ Indian General Election 2024 – Power BI Dashboard
+
+![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/election-commission-to-announce-lok-sabha-election-dates-today-164430781-16x9_1.webp)
+
 
 ## 📌 Project Overview
 
