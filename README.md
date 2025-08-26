@@ -59,9 +59,11 @@ The dashboard uses publicly available data from the **Election Commission of Ind
 
 ## 📸 Screenshots
 
+![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Landing%20Page.png)
+
 ![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Overview%20Analysis.png)
 
-![Netflix Logo]((https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/POLITICAL%20LANDSCAPE%20BY%20STATE.png)
+![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/POLITICAL%20LANDSCAPE%20BY%20STATE.png)
 
 
 ---
