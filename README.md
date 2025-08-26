@@ -59,7 +59,9 @@ The dashboard uses publicly available data from the **Election Commission of Ind
 
 ## 📸 Screenshots
 
-(Add your Power BI dashboard screenshots here in the repo for better visualization, e.g. `screenshots/overview.png`, `screenshots/state.png` etc.)
+![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Overview%20Analysis.png)
+
+![Netflix Logo]((https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/POLITICAL%20LANDSCAPE%20BY%20STATE.png)
 
 
 ---
