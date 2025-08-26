@@ -1,6 +1,6 @@
 # 🗳️ Indian General Election 2024 – Power BI Dashboard
 
-![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/election-commission-to-announce-lok-sabha-election-dates-today-164430781-16x9_1.webp)
+![Election](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/election-commission-to-announce-lok-sabha-election-dates-today-164430781-16x9_1.webp)
 
 
 ## 📌 Project Overview
@@ -59,11 +59,13 @@ The dashboard uses publicly available data from the **Election Commission of Ind
 
 ## 📸 Screenshots
 
-![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Landing%20Page.png)
+![Landing Page Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Landing%20Page.png)
 
-![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Overview%20Analysis.png)
+![Overview Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/Overview%20Analysis.png)
 
-![Netflix Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/POLITICAL%20LANDSCAPE%20BY%20STATE.png)
+![Constituency Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/CONSTITUENCY%20ANALYSIS.png)
+
+![State Logo](https://github.com/Adarsh0722/India_General_Election_Results_Analysis-2024/blob/main/POLITICAL%20LANDSCAPE%20BY%20STATE.png)
 
 
 ---
